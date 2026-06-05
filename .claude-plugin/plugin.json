@@ -1,0 +1,20 @@
+{
+  "name": "devops-skills",
+  "version": "1.0.0",
+  "description": "DevOps and CI/CD skills — GitLab CI, GitHub Actions, K8s, Terraform, Ansible",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/devops-skills",
+  "repository": "https://github.com/full-statck-skills/devops-skills",
+  "source": "./",
+  "skills": [
+    "./skills/ansible",
+    "./skills/cloudformation",
+    "./skills/github-actions",
+    "./skills/gitlab-ci",
+    "./skills/kubernetes",
+    "./skills/terraform",
+  ]
+}
