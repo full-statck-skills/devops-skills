@@ -1,7 +1,7 @@
 {
   "name": "devops-skills",
   "version": "1.0.0",
-  "description": "DevOps and CI/CD skills — GitLab CI, GitHub Actions, K8s, Terraform, Ansible",
+  "description": "DevOps and CI/CD skills",
   "author": {
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
@@ -15,6 +15,6 @@
     "./skills/github-actions",
     "./skills/gitlab-ci",
     "./skills/kubernetes",
-    "./skills/terraform",
+    "./skills/terraform"
   ]
 }
